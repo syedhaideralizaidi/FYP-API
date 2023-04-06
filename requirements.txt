@@ -1,7 +1,6 @@
 ffmpeg-python==0.2.0
 more-itertools
 numba
-tiktoken
 tqdm
 openai-whisper
 torch
