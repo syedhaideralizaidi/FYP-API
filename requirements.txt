@@ -4,6 +4,7 @@ more-itertools
 numba
 tqdm
 openai-whisper
+typing-extensions>=3.7.4.1,<4.5.0
 torch
 spacy
 flask
