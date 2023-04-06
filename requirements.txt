@@ -1,8 +1,2 @@
-ffmpeg-python==0.2.0
-more-itertools
-numba
-tqdm
-openai-whisper
-torch
-spacy==3.2.1
+spacy
 flask
