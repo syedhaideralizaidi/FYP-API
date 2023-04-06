@@ -8,6 +8,6 @@ typing-extensions>=3.7.4.1,<4.5.0
 torch
 spacy
 flask
-python-3.8
+PYTHON_VERSION==3.8.2
 whisper
 openai-whisper
