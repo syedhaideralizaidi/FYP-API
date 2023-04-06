@@ -3,9 +3,11 @@ ffmpeg
 more-itertools
 numba
 tqdm
-openai-whisper
+
 typing-extensions>=3.7.4.1,<4.5.0
 torch
 spacy
 flask
 python_version = "3.8"
+whisper
+openai-whisper
