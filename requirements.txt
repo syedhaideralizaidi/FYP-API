@@ -6,4 +6,4 @@ spacy
 flask
 whisper
 openai-whisper
-triton==2.0.0
+triton
